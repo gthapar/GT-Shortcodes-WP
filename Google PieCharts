@@ -1,8 +1,0 @@
-Google PieCharts Shortcode 1
-[gt_google_pie_chart font_size="14" font_name="Arial" legend_align="automatic" legend_position="left" legend_font_size="14" legend_color="#000000" legend_bold="false" legend_italic="false" pie_hole="0" pie_slice_border_color="#FFFFFF" pie_slice_text="percentage" tooltip_text="both" tooltip_color="#000000" tooltip_font_size="14" title="My Daily Activities" title_font_size="16" title_color="#000000" title_bold="true" title_italic="false" shape="normal" width="880" height="500" background="#FFFFFF" border_size="0" border_color="#FFFFFF" animation_event="PageLoad" animation_type="fadeIn" colors="'#3366CC','#DC3912','#FF9900','#109618','#990099'"]
-[gt_google_pie_chart_data label="Work" weight="11"]
-[gt_google_pie_chart_data label="Eat" weight="2"]
-[gt_google_pie_chart_data label="Commute" weight="2"]
-[gt_google_pie_chart_data label="Watch TV" weight="2"]
-[gt_google_pie_chart_data label="Sleep" weight="7"]
-[/gt_google_pie_chart]
